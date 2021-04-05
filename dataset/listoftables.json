@@ -1,0 +1,13 @@
+{
+	"name": "listoftables",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "sampledb",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
