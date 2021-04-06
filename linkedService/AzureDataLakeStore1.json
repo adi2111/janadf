@@ -1,0 +1,13 @@
+{
+	"name": "AzureDataLakeStore1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataLakeStore",
+		"typeProperties": {
+			"dataLakeStoreUri": "https://adithyaadlsgen1.azuredatalakestore.net/webhdfs/v1",
+			"tenant": "5474db33-0ecb-4035-ae7b-5de3c40408f2",
+			"subscriptionId": "51e69503-92d3-43f8-a839-35f321ca65a9",
+			"resourceGroupName": "ADITHYLTI"
+		}
+	}
+}
